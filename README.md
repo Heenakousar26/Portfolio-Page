@@ -1,22 +1,22 @@
 # Modern Interactive Portfolio & DevStudio
 
-A personal developer portfolio website built from scratch using **HTML5**, **CSS3**, and **Vanilla JavaScript** as part of the **SkillMe Web Development Virtual Internship** (Kolimi Heena Kousar)[cite: 1].
+A personal developer portfolio website built from scratch using **HTML5**, **CSS3**, and **Vanilla JavaScript** as part of the **SkillMe Web Development Virtual Internship** (Kolimi Heena Kousar).
 
 ## Features Implemented
 
 ### Week 1: Semantic Structure & Modern Styling
-* **Semantic HTML5:** Structured with `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, and `<footer>` for clean document hierarchy[cite: 2, 3].
-* **CSS Custom Properties:** Centralized theme variables in `:root` for consistent dark-slate colors, accents, and typography[cite: 2, 3].
-* **Flexbox Layout:** Responsive navigation bar, hero stats row, experience cards, and project grid with smooth in-page scrolling (`scroll-behavior: smooth`) and card hover transitions[cite: 2, 3].
+* **Semantic HTML5:** Structured with `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, and `<footer>` for clean document hierarchy.
+* **CSS Custom Properties:** Centralized theme variables in `:root` for consistent dark-slate colors, accents, and typography.
+* **Flexbox Layout:** Responsive navigation bar, hero stats row, experience cards, and project grid with smooth in-page scrolling (`scroll-behavior: smooth`) and card hover transitions.
 
 ### Week 2: Responsive Design & Dynamic JavaScript
-* **Mobile-First Responsiveness:** Tested across mobile (`375px`), tablet, and desktop viewports with zero horizontal overflow[cite: 5, 6].
-* **Interactive Hamburger Menu:** Vanilla JS navigation toggle that opens/closes on mobile screens and automatically collapses when a section link is selected[cite: 5, 6].
-* **Dynamic Project Rendering & Filtering:** Project cards are stored in a structured JavaScript array and dynamically rendered using `.filter()` and `.map()` with category filters (**All**, **Java**, **Python**, **JavaScript**)[cite: 5, 6].
+* **Mobile-First Responsiveness:** Tested across mobile (`375px`), tablet, and desktop viewports with zero horizontal overflow.
+* **Interactive Hamburger Menu:** Vanilla JS navigation toggle that opens/closes on mobile screens and automatically collapses when a section link is selected.
+* **Dynamic Project Rendering & Filtering:** Project cards are stored in a structured JavaScript array and dynamically rendered using `.filter()` and `.map()` with category filters (**All**, **Java**, **Python**, **JavaScript**).
 
 ## Tech Stack
-* **Frontend:** HTML5, CSS3 (Flexbox, CSS Variables, Media Queries), JavaScript (ES6+, DOM Manipulation)[cite: 2, 5]
-* **Version Control:** Git & GitHub[cite: 2, 3]
+* **Frontend:** HTML5, CSS3 (Flexbox, CSS Variables, Media Queries), JavaScript (ES6+, DOM Manipulation)
+* **Version Control:** Git & GitHub
 
 ## Project Structure
 ```text
@@ -38,7 +38,7 @@ git clone [https://github.com/](https://github.com/)Heenakousar26/portfolio-page
 
 2. Navigate into the project folder:
 ```bash
-cd <your-repo-name>
+cd portfolio-page
 
 ```
 
