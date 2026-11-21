@@ -31,7 +31,7 @@ A personal developer portfolio website built from scratch using **HTML5**, **CSS
 
 1. Clone this repository:
 ```bash
-git clone [https://github.com/](https://github.com/)Heenakousar26/portfolio-page.git
+git clone https://github.com/Heenakousar26/portfolio-page.git
 
 ```
 
